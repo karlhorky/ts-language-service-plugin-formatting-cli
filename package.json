@@ -1,5 +1,5 @@
 {
-  "name": "format-test",
+  "name": "ts-language-service-plugin-formatting-cli",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
