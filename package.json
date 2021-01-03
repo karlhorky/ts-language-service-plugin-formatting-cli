@@ -1,6 +1,7 @@
 {
   "name": "ts-language-service-plugin-formatting-cli",
   "version": "1.0.0",
+  "private": true,
   "main": "index.js",
   "license": "MIT",
   "scripts": {
